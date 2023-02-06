@@ -2,10 +2,10 @@
 
 
 ### My Education
-##### Studies B.Sc. in Software Engineering at Daffodil International University
+#### Studies B.Sc. in Software Engineering at Daffodil International University
 
 ### My Skills
-##### Languages: C | C++ 
+#### Languages:<p align="left"> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://github.com/iffatul-anon/Anon/blob/main/c%20logo.png" alt="c" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://github.com/iffatul-anon/Anon/blob/main/c%2B%2B%20logo.png" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 ### My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=iffatul-anon&show_icons=true&count_private=true&theme=dark" alt="iffatul-anon" />
@@ -18,7 +18,7 @@
  
  <h3 align="left">My Handle</h3>
 <p align="left">
-  <a href="https://codeforces.com/profile/iffatul_anon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/cf%20logo.webp" alt="iffatul_anon" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/iffatul_anon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/cf%20logo.webp" alt="iffatul_anon" height="30" width="30" /></a>
  <a href="https://www.codechef.com/users/iffatulanon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/cc%20logo.png" alt="iffatulanon" height="30" width="40" /></a>
 </p>
   
@@ -26,6 +26,6 @@
 <p align="left">
 <a href="https://fb.com/iffatul.anon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/Facebook-logo.png" alt="iffatul_anon" height="30" width="50" /></a>
 <a href="https://instagram.com/iffatul_anon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/instagram-logo-circle.png" alt="iffatul_anon" height="30" width="30" /></a>
-<br>
+<br><br>
   
 ![Profile views](https://gpvc.arturio.dev/iffatul-anon)
