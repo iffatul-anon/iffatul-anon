@@ -1,7 +1,9 @@
 ### Hi there 🙂
 
-## It's Md. Iffatul Islam Anon <br>
-#### I'm studying B.Sc. in Software Engineering at Daffodil International University
+## It's Md. Iffatul Islam Anon 
+
+### My Education
+##### I'm studying B.Sc. in Software Engineering at Daffodil International University
 
 ### My Skills
 ##### Languages: C | C++ 
