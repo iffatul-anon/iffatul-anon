@@ -1,11 +1,11 @@
 <h1 align="center">Hi👋, It's Anon 🙂</h1>
 
 
-### My Education
+## My Education
 #### Studies B.Sc. in Software Engineering at Daffodil International University
 
-### My Skills
-#### Languages:<p align="left"> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://github.com/iffatul-anon/Anon/blob/main/c%20logo.png" alt="c" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://github.com/iffatul-anon/Anon/blob/main/c%2B%2B%20logo.png" alt="cplusplus" width="40" height="40"/> </a> </p>
+## My Skills
+#### Languages:<p> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://github.com/iffatul-anon/Anon/blob/main/c%20logo.png" alt="c" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://github.com/iffatul-anon/Anon/blob/main/c%2B%2B%20logo.png" alt="cplusplus" width="30" height="30"/> </a> </p>
 
 ### My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=iffatul-anon&show_icons=true&count_private=true&theme=dark" alt="iffatul-anon" />
