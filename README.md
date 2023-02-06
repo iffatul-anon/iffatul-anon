@@ -21,5 +21,10 @@
  <br />
  [facebook]: (https://www.facebook.com/iffatul.anon/)
  [instagram]: https://www.instagram.com/iffatul_anon
+ 
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/iffatul.anon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iffatul_anon" height="30" width="40" /></a>
+<a href="https://instagram.com/iffatul_anon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iffatul_anon" height="30" width="40" /></a>
 
 ![Profile views](https://gpvc.arturio.dev/iffatul-anon)
