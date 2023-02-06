@@ -3,7 +3,7 @@
 ## It's Md. Iffatul Islam Anon 
 
 ### My Education
-##### I'm studying B.Sc. in Software Engineering at Daffodil International University
+##### Studies B.Sc. in Software Engineering at Daffodil International University
 
 ### My Skills
 ##### Languages: C | C++ 
