@@ -18,8 +18,8 @@
  
  <h3 align="left">My Handle</h3>
 <p align="left">
- <a href="https://www.codechef.com/users/iffatulanon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/cc%20logo.jpeg" alt="iffatulanon" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/iffatul_anon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/cf%20logo.webp" alt="iffatul_anon" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/iffatul_anon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/cf%20logo.webp" alt="iffatul_anon" height="30" width="40" /></a>
+ <a href="https://www.codechef.com/users/iffatulanon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/cc%20logo.png" alt="iffatulanon" height="30" width="40" /></a>
 </p>
   
  <h3 align="left">Connect with me</h3>
