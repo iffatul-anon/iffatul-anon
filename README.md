@@ -18,7 +18,7 @@
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/iffatul.anon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/Facebook-logo.png" alt="iffatul_anon" height="30" width="40" /></a>
-<a href="https://instagram.com/iffatul_anon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/instagram-logo-circle.png" alt="iffatul_anon" height="30" width="40" /></a>
+<a href="https://fb.com/iffatul.anon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/Facebook-logo.png" alt="iffatul_anon" height="30" width="60" /></a>
+<a href="https://instagram.com/iffatul_anon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/instagram-logo-circle.png" alt="iffatul_anon" height="30" width="30" /></a>
 
 ![Profile views](https://gpvc.arturio.dev/iffatul-anon)
