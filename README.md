@@ -11,10 +11,10 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iffatul-anon&show_icons=true&count_private=true&theme=dark" alt="iffatul-anon" /></p>
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
-<p align="center"><a href="https://github-readme-streak-stats.herokuapp.com/?user=iffatul-anon&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl">(https://git.io/streak-stats></a></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iffatul-anon&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
   
  <!--  TOP LANGUAGES STATISTICS -->
- <p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iffatul-anon&theme=dark&layout=compact&align=right&width=40%)](https://github.com/iffatul-anon/github-readme-stats)]</p>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iffatul-anon&theme=dark&layout=compact&align=right&width=40%)](https://github.com/iffatul-anon/github-readme-stats)]
  
  ### Feel free to connect with me:
  [<img align="left" alt="facebook.com/iffatul.anon" width="48px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook](https://www.facebook.com/iffatul.anon/)
