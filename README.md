@@ -16,9 +16,9 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iffatul-anon&theme=dark&layout=compact&align=right&width=40%)](https://github.com/iffatul-anon/github-readme-stats)
  
  ### Feel free to connect with me:
- [<img align="left" alt="facebook.com/iffatul.anon" width="48px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
+ [<img align="left" alt="facebook.com/iffatul.anon" width="48px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook](https://www.facebook.com/iffatul.anon/)
  <br />
- [facebook]: https://www.facebook.com/iffatul.anon/
+ [facebook]: (https://www.facebook.com/iffatul.anon/)
  [instagram]: https://www.instagram.com/iffatul_anon
 
 ![Profile views](https://gpvc.arturio.dev/iffatul-anon)
