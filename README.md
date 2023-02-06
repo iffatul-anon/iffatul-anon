@@ -3,6 +3,9 @@
 ## It's Md. Iffatul Islam Anon
 ### I'm studying B.Sc. in Software Engineering at Daffodil International University
 
+### My Skills
+#### Languages: C | C++ 
+
 ### My Github Stats
  <img src="https://github-readme-stats.vercel.app/api?username=iffatul-anon&show_icons=true&count_private=true&theme=dark" alt="iffatul-anon" />
 
