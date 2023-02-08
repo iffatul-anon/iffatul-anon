@@ -17,14 +17,14 @@
  
  <h3 align="left">My Handle</h3>
 <p align="left">
-    <a href="https://codeforces.com/profile/iffatul_anon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/cf%20logo.webp" alt="iffatul_anon" height="30" width="25" /></a>
- <a href="https://www.codechef.com/users/iffatulanon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/cc%20logo.png" alt="iffatulanon" height="30" width="35" /></a>
+    <a href="https://codeforces.com/profile/iffatul_anon" target="blank"><img align="center" title="CodeForces" src="https://github.com/iffatul-anon/Anon/blob/main/cf%20logo.webp" alt="iffatul_anon" height="30" width="25" /></a>
+ <a href="https://www.codechef.com/users/iffatulanon" target="blank"><img align="center" title="CodeChef" src="https://github.com/iffatul-anon/Anon/blob/main/cc%20logo.png" alt="iffatulanon" height="30" width="35" /></a>
 </p>
   
  <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://fb.com/iffatul.anon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/facebook-logo.svg" alt="iffatul.anon" height="28" width="31" /></a>
-<a href="https://instagram.com/iffatul_anon" target="blank"><img align="center" src="https://github.com/iffatul-anon/Anon/blob/main/instagram-logo-circle.png" alt="iffatul_anon" height="30" width="30" /></a>
+<a href="https://fb.com/iffatul.anon" target="blank"><img align="center" title="Facebook" src="https://github.com/iffatul-anon/Anon/blob/main/facebook-logo.svg" alt="iffatul.anon" height="28" width="31" /></a>
+<a href="https://instagram.com/iffatul_anon" target="blank"><img align="center" title="Instagram" src="https://github.com/iffatul-anon/Anon/blob/main/instagram-logo-circle.png" alt="iffatul_anon" height="30" width="30" /></a>
 <br><br>
   
 ![Profile views](https://gpvc.arturio.dev/iffatul-anon)
