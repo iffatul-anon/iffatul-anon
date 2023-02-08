@@ -1,12 +1,12 @@
 <h1 align="center">Hi👋, I'm Anon 🙂</h1>
 
 
-### My Education
-#### Studies B.Sc. in Software Engineering at Daffodil International University
+<h3>My Education</h3>
+<p>Studies B.Sc. in Software Engineering at Daffodil International University</p>
 
-### My Skills
-#### Languages: C || C++
-### My Github Stats
+<h3>My Skills</h3>
+<p>Languages: C || C++</p>
+<h3>My Github Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=iffatul-anon&show_icons=true&count_private=true&theme=dark" alt="iffatul-anon" />
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
