@@ -6,6 +6,8 @@
 
 <h3>My Skills</h3>
 <p>Languages: C || C++ || Java</p>
+<p>Query Languages: MySQL</p>
+<p>Tools: Git || Github</p>
 
  <!-- <h3>My Github Stats</h3> -->
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=iffatul-anon&show_icons=true&count_private=true&theme=dark" alt="iffatul-anon" /> -->
