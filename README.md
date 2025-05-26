@@ -5,7 +5,7 @@
 <p>Studies B.Sc. in Software Engineering at Daffodil International University</p>
 
 <h3>My Skills</h3>
-<p>Languages: C || C++ || Java</p>
+<p>Languages: C || C++ || Python || Java</p>
 <p>Query Languages: MySQL</p>
 <p>Tools: Git || Github</p>
 
