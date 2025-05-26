@@ -31,4 +31,4 @@
 <a href="https://instagram.com/iffatul_anon" target="blank"><img align="center" title="Instagram" src="https://github.com/iffatul-anon/iffatul-anon/blob/main/instagram-logo-circle.png" alt="iffatul_anon" height="30" width="30" /></a>
 <br><br>
   
-![Profile views](https://gpvc.arturio.dev/iffatul-anon) 
+[Profile views](https://gpvc.arturio.dev/iffatul-anon) 
