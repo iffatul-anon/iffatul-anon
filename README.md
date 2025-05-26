@@ -2,12 +2,26 @@
 
 
 <h3>My Education</h3>
-<p>Studies B.Sc. in Software Engineering at Daffodil International University</p>
+<p>B.Sc. in Software Engineering (Major in Data Science)</p> 
+<p>Daffodil International University</p>
+
+---
 
 <h3>My Skills</h3>
-<p>Languages: C || C++ || Python || Java</p>
-<p>Query Languages: MySQL</p>
-<p>Tools: Git || Github</p>
+<p>Programming Languages: C, C++, Python, Java</p>
+<p>Database: MySQL</p>
+<p>Tools: Git, GitHub</p>
+<p>Core Concepts: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Software Development Life Cycle (SDLC)</p>
+<p>AI & ML Concepts: Familiar with fundamental concepts of Machine Learning, Artificial Intelligence, and Large Language Models (LLMs)</p>
+
+---
+<h3>Competitive Programming</h3>
+<p>CodeForces: Specialist (Max Rating: 1461)</p>
+<p>61st Position – ICPC Asia Dhaka Regional Onsite Contest, 2024</p>
+<p>1st Runner-up – DIU SWE Intra Department Programming Contest, 2022</p>
+<p>7th Position – DIU Take-Off Programming Contest, 2022</p>
+
+---
 
  <!-- <h3>My Github Stats</h3> -->
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=iffatul-anon&show_icons=true&count_private=true&theme=dark" alt="iffatul-anon" /> -->
