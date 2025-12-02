@@ -12,7 +12,7 @@
 <p>Backend & Frameworks: FastAPI, Nest.js</p>
 <p>AI/ML & LLM: LangChain, Phidata, RAG, LLM Agents, Vector Databases</p>
 <p>Databases: PostgreSQL, MySQL, Qdrant</p>
-<p>Tools: Git, GitHub, Docker, Airbyte</p>
+<p>Tools: Git, GitHub, Docker, Airbyte, Postman</p>
 <p>Core CS: DSA, OOP, SDLC</p>
 <p>Soft Skills: Teamwork, Problem Solving, Time Management</p>
 
