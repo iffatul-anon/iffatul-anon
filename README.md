@@ -8,11 +8,13 @@
 ---
 
 <h3>My Skills</h3>
-<p>Programming Languages: C, C++, Python, Java</p>
-<p>Database: MySQL</p>
-<p>Tools: Git, GitHub</p>
-<p>Core Concepts: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Software Development Life Cycle (SDLC)</p>
-<p>AI & ML Concepts: Familiar with fundamental concepts of Machine Learning, Artificial Intelligence, and Large Language Models (LLMs)</p>
+<p>Programming Languages: C, C++, Python, Java, JavaScript</p>
+<p>Backend & Frameworks: FastAPI, Nest.js</p>
+<p>AI/ML & LLM: LangChain, Phidata, RAG, LLM Agents, Vector Databases</p>
+<p>Databases: PostgreSQL, MySQL, Qdrant</p>
+<p>Tools: Git, GitHub, Docker, Airbyte</p>
+<p>Core CS: DSA, OOP, SDLC</p>
+<p>Soft Skills: Teamwork, Problem Solving, Time Management</p>
 
 ---
 <h3>Competitive Programming</h3>
